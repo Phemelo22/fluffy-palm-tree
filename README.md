@@ -12,10 +12,7 @@ Skills: SQL / REACT / JS / HTML / DART/C
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Coding isn't just for the tech industry**
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg&#39; alt='github' height='40'>](https://github.com/Phemelo22) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg&#39; alt='linkedin' height='40'>](https://www.linkedin.com/in/Phemelo Gaborone/)
-
-<a href='https://archiveprogram.github.com/&#39;&gt;&lt;img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif&#39; width='40' height='40'></a> <a href='https://github.com/pricing&#39;&gt;&lt;img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif&#39; width='40' height='40'></a> <a href='https://stars.github.com/&#39;&gt;&lt;img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif&#39; width='35' height='35'></a> 
+ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Phemelo22)](https://github.com/ryo-ma/github-profile-trophy)<br/><br/>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phemelo22&amp;show_icons=true)
 
